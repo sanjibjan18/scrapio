@@ -1,0 +1,101 @@
+--2011-04-23 01:29:25--  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Resolving ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com... 10.130.151.168
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 01:44:26--  (try: 2)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 01:59:28--  (try: 3)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 02:14:31--  (try: 4)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 02:29:35--  (try: 5)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 02:44:40--  (try: 6)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 02:59:47--  (try: 7)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 03:14:54--  (try: 8)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 03:30:02--  (try: 9)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 03:45:11--  (try:10)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 04:00:21--  (try:11)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 04:15:31--  (try:12)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 04:30:41--  (try:13)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 04:45:51--  (try:14)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 05:01:01--  (try:15)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 05:16:12--  (try:16)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 05:31:22--  (try:17)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 05:46:32--  (try:18)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 06:01:42--  (try:19)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2011-04-23 06:16:52--  (try:20)  http://ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com:3030/critics_reviews
+Connecting to ec2-122-248-194-131.ap-southeast-1.compute.amazonaws.com|10.130.151.168|:3030... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

@@ -1,0 +1,2 @@
+module UpcomingReleasesHelper
+end

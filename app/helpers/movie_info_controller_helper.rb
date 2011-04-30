@@ -1,0 +1,2 @@
+module MovieInfoControllerHelper
+end

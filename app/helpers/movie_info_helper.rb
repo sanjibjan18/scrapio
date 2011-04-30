@@ -1,0 +1,2 @@
+module MovieInfoHelper
+end
